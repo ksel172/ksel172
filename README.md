@@ -1,7 +1,7 @@
 Hi 👋 My name is Konstantin Seliadtsou
 ======================================
 
-Cybersecurity enthusiast and software
+Cybersecurity and software development enthusiast
 -------------------------------------
 
 * ✉️  You can contact me at [kseliadtsou@gmail.com](mailto:kseliadtsou@gmail.com)
