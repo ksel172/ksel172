@@ -20,7 +20,7 @@ Cybersecurity and software development enthusiast
 
 ### Badges
 
-![ksel172's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksel172&show_icons=true&theme=shadow_red)
+![ksel172's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksel172&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksel172&layout=compact&show_icons=true&theme=shadow_red)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksel172&layout=compact&show_icons=true&theme=dark)
 
